@@ -3,24 +3,31 @@
   <img src="[BANNER_IMAGE_URL]" alt="Profile Banner" width="100%"/>
 </p>
 
-<h1 align="center">Hi there, I'm Mahesh Babu K 👋</h1>
+<h1 align="center">Hi there, I'm Mahesh Babu K </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=AI+%26+ML+Engineer+in+Training;Python+%7C+Computer+Vision+%7C+NLP;Building+Real-World+AI+Projects;Learning+Java+%26+Full+Stack+Dev&font=Fira+Code&center=true&color=00F7FF&width=600&height=50" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Undergraduate+as+AI+%26+ML+Engineer;Python+%7C+Computer+Vision+%7C+NLP;Building+Real-World+AI+Projects;&font=Fira+Code&center=true&color=00F7FF&width=600&height=50" alt="Typing SVG"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kmaheshbabu75&label=Profile%20Views&color=00F7FF&style=flat" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/kmaheshbabu75?label=Followers&style=flat&color=00F7FF" alt="GitHub Followers"/>
+  <a href="https://github.com/kmaheshbabu75">
+    <img src="https://img.shields.io/badge/Follow-%40kmaheshbabu75-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub"/>
+  </a>
+  <a href="https://linkedin.com/in/maheshbabuk87">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://leetcode.com/u/maheshbabu_77/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
+  <a href="mailto:maheshbabu75k7@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
-
----
 
 ## 👨‍💻 About Me
 
 - 🎓 Computer Science undergraduate specializing in **Artificial Intelligence & Machine Learning**                       2023 –  2027
 - 💡 Experienced in building AI and software development projects using **Python, MySQL, and machine learning fundamentals**
-- 🔨 Growing my expertise in **Java** and related software engineering technologies
 - 🎯 Seeking opportunities to apply my technical knowledge, contribute to meaningful projects, and grow in a professional environment
 - 🌱 Currently strengthening my skills in Computer Vision, NLP, and full stack development
 
@@ -47,7 +54,6 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![DistilBERT](https://img.shields.io/badge/DistilBERT-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![DistilBART](https://img.shields.io/badge/DistilBART-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 **Data & Tools**
 
@@ -60,9 +66,10 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
----
 
 ## 📊 GitHub Statistics
+
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kmaheshbabu75&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
@@ -73,10 +80,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmaheshbabu75&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kmaheshbabu75&theme=tokyo-night" alt="Contribution Graph"/>
 </p>
 
@@ -84,7 +87,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=kmaheshbabu75&theme=tokyonight&no-frame=true&row=1" alt="Trophy Board"/>
 </p>
 
----
 
 ## 🚀 Featured Projects
 
@@ -99,12 +101,12 @@ A real-time human activity recognition system that detects body landmarks from l
 
 **Key learning outcomes:** Real-time computer vision pipelines, pose estimation, temporal signal smoothing, event-driven alerting systems
 
-🔗 Repository: `[REPO_LINK]` &nbsp;|&nbsp; 🌐 Live Demo: `[DEMO_LINK]` *(if applicable)*
+🔗 Repository: [https://github.com/kmaheshbabu75/Human-Activity-Recognition-using-MediaPipe]
 
 ---
 
 ### 📄 AI-Based Web Content Summarizer with Q&A and Audio
-**2024** | `Python` `Streamlit` `HuggingFace`
+**2025** | `Python` `Streamlit` `HuggingFace`
 
 A web application that fetches and extracts article content from URLs and generates abstractive summaries using the DistilBART NLP model.
 
@@ -114,32 +116,8 @@ A web application that fetches and extracts article content from URLs and genera
 
 **Key learning outcomes:** NLP model integration, web scraping, transformer-based summarization/QA pipelines, building interactive data apps
 
-🔗 Repository: `[REPO_LINK]` &nbsp;|&nbsp; 🌐 Live Demo: `[DEMO_LINK]` *(if applicable)*
-
-
-
-## 🎯 Current Focus
-
-Currently strengthening my **Java** foundation and expanding into related software development technologies, while continuing to build on my AI/ML project portfolio in computer vision and NLP. Actively preparing to apply this knowledge in a professional software engineering or AI/ML role.
+ 🔗 Repository: [https://github.com/kmaheshbabu75/An-AI-Based-Web-Content-Summarization-System-with-Question-Answering-and-Audio-Generation]
 
 ---
-
-## 🌐 Coding Profiles
-
-| Platform | Link |
-|---|---|
-| GitHub | [github.com/kmaheshbabu75](https://github.com/kmaheshbabu75) |
-| LinkedIn | [linkedin.com/in/maheshbabuk87](https://linkedin.com/in/maheshbabuk87) |
-| LeetCode | [leetcode.com/u/maheshbabu_77/](https://leetcode.com/u/maheshbabu_77/) |
-
----
-
-## 📫 Contact Me
-
-| | |
-|---|---|
-| 📧 Email | maheshbabu75k7@gmail.com |
-| 💼 LinkedIn | [linkedin.com/in/maheshbabuk87](https://linkedin.com/in/maheshbabuk87) |
-| 🐙 GitHub | [github.com/kmaheshbabu75](https://github.com/kmaheshbabu75) |
 
 <p align="center"><i>Thanks for stopping by — always open to connecting, collaborating, and learning! 🚀</i></p>
