@@ -116,23 +116,7 @@ A web application that fetches and extracts article content from URLs and genera
 
 🔗 Repository: `[REPO_LINK]` &nbsp;|&nbsp; 🌐 Live Demo: `[DEMO_LINK]` *(if applicable)*
 
----
 
-## 🗺️ Learning Journey
-
-- [x] Python programming fundamentals
-- [x] Machine learning fundamentals
-- [x] Computer vision with MediaPipe & OpenCV
-- [x] NLP with HuggingFace Transformers (DistilBART, DistilBERT)
-- [x] Data analysis with Pandas, NumPy, Matplotlib
-- [x] Web app development with Streamlit
-- [x] MySQL fundamentals
-- [ ] Java (in progress — core language & related technologies)
-- [ ] Full stack / related Java technologies (in progress)
-- [ ] Advanced data structures & algorithms (planned)
-- [ ] Cloud platforms & deployment (planned)
-
----
 
 ## 🎯 Current Focus
 
@@ -146,35 +130,7 @@ Currently strengthening my **Java** foundation and expanding into related softwa
 |---|---|
 | GitHub | [github.com/kmaheshbabu75](https://github.com/kmaheshbabu75) |
 | LinkedIn | [linkedin.com/in/maheshbabuk87](https://linkedin.com/in/maheshbabuk87) |
-| LeetCode | `[LEETCODE_PROFILE_LINK]` |
-| HackerRank | `[HACKERRANK_PROFILE_LINK]` |
-| CodeChef | `[CODECHEF_PROFILE_LINK]` |
-| Codeforces | `[CODEFORCES_PROFILE_LINK]` |
-| Portfolio Website | `[PORTFOLIO_LINK]` |
-
----
-
-## 📜 Certifications
-
-*No certifications are currently listed on my resume — this section will be updated as I complete relevant courses.*
-
-| Certification | Platform | Verification Link |
-|---|---|---|
-| `[CERT_NAME]` | `[PLATFORM]` | `[VERIFICATION_LINK]` |
-
----
-
-## 🏆 Achievements
-
-*No specific achievements or awards are currently listed on my resume — to be added as milestones are reached.*
-
----
-
-## 💡 Fun Facts
-
-- 🤖 I enjoy teaching computers to recognize human movement — quite literally, with my Human Activity Recognition project
-- 📚 I like turning long articles into short, listenable summaries (and built a tool to do exactly that)
-- 🛠️ Currently bridging two worlds: AI/ML pipelines and core Java software development
+| LeetCode | [leetcode.com/u/maheshbabu_77/](https://leetcode.com/u/maheshbabu_77/) |
 
 ---
 
@@ -185,6 +141,5 @@ Currently strengthening my **Java** foundation and expanding into related softwa
 | 📧 Email | maheshbabu75k7@gmail.com |
 | 💼 LinkedIn | [linkedin.com/in/maheshbabuk87](https://linkedin.com/in/maheshbabuk87) |
 | 🐙 GitHub | [github.com/kmaheshbabu75](https://github.com/kmaheshbabu75) |
-| 🌐 Portfolio | `[PORTFOLIO_LINK]` |
 
 <p align="center"><i>Thanks for stopping by — always open to connecting, collaborating, and learning! 🚀</i></p>
