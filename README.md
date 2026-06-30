@@ -18,7 +18,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Science undergraduate specializing in **Artificial Intelligence & Machine Learning** at Vel Tech High Tech Dr. Rangarajan Dr. Sakunthala Engineering College, Chennai (Aug 2023 – May 2027)
+- 🎓 Computer Science undergraduate specializing in **Artificial Intelligence & Machine Learning**                       2023 –  2027
 - 💡 Experienced in building AI and software development projects using **Python, MySQL, and machine learning fundamentals**
 - 🔨 Growing my expertise in **Java** and related software engineering technologies
 - 🎯 Seeking opportunities to apply my technical knowledge, contribute to meaningful projects, and grow in a professional environment
