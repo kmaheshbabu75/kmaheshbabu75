@@ -1,9 +1,7 @@
 <!-- Profile Banner -->
-<p align="center">
-  <img src="[BANNER_IMAGE_URL]" alt="Profile Banner" width="100%"/>
-</p>
 
-<h1 align="center">Hi there, I'm Mahesh Babu K </h1>
+
+<h1 align="center">Hi there, I'm Mahesh Babu K 👋 </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Undergraduate+as+AI+%26+ML+Engineer;Python+%7C+Computer+Vision+%7C+NLP;Building+Real-World+AI+Projects;&font=Fira+Code&center=true&color=00F7FF&width=600&height=50" alt="Typing SVG"/>
